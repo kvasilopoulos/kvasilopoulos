@@ -22,4 +22,4 @@
 * Ph.D. in Economics 🎓 (Lancaster University) – because data without context is just noise.
 * Once turned housing market data into journal-worthy insights. Now turning ML models into business value.
 
-📫 Let’s talk AI, ML, and all things scaling: LinkedIn | Website | GitHub
+📫 Let’s talk AI, ML, and all things scaling: [LinkedIn](https://www.linkedin.com/in/kvasilopoulos) | [Website](https://kvasilopoulos.com/) | [GitHub](https://github.com/kvasilopoulos)
