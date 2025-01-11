@@ -1,6 +1,6 @@
 ## Kostas Vasilopoulos 
 
-🚀 Used to model economic crises, now engineering AI to prevent them. 
+🚀 Used to model economic crises, now engineering AI to cause them 🦾🤖!
 
 📈 From modelling housing markets to optimizing LLM pipelines at scale.
 
