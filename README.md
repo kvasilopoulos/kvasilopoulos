@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-🐍 Python | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🦜 LangChain | 🔍 ElasticSearch
+🐍 Python | 📊 R | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🦜 LangChain | 🔍 ElasticSearch
 
 ## 🎯  Past Life
 
