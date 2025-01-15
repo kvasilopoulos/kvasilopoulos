@@ -16,7 +16,7 @@
 
 🐍 Python | 📊 R | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🦜 LangChain | 🔍 ElasticSearch
 
-## 🎯  Past Life
+## 🎯  Academic Life
 
 * Ph.D. in Economics 🎓 (Lancaster University) – because data without context is just noise.
 * Once turned housing market data into journal-worthy insights. Now turning ML models into business value.
