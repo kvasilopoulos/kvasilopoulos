@@ -22,6 +22,6 @@ Python · R · AWS · Docker · Kubernetes · LangChain · Elasticsearch
 
 ## Contact
 
-- [LinkedIn]\(https://www.linkedin.com/in/kvasilopoulos)  
-- [Website]\(https://kvasilopoulos.com/)  
+- [LinkedIn](https://www.linkedin.com/in/kvasilopoulos)  
+- [Website](https://kvasilopoulos.com/)  
 - [GitHub](https://github.com/kvasilopoulos)
