@@ -4,29 +4,21 @@ I started out modeling economic systems and financial crises. Today, I design an
 
 My work focuses on taking models from research to reality — building scalable, reliable ML and GenAI platforms that teams can actually depend on.
 
----
-
 ## What I work on
 
 - **AI / ML Engineering** – Designing, deploying, and operating machine learning systems at scale  
 - **MLOps & Infrastructure** – Production pipelines, observability, reliability, and cost-aware scaling  
 - **NLP & GenAI** – Text analytics, LLM-based systems, and applied language models
 
----
-
 ## Tech stack
 
 Python · R · AWS · Docker · Kubernetes · LangChain · Elasticsearch
-
----
 
 ## Background
 
 - **Ph.D. in Economics** (Lancaster University)  
 - Early work focused on housing markets and macroeconomic modeling  
 - Current focus is on applying ML and GenAI to real-world, production problems
-
----
 
 ## Contact
 
